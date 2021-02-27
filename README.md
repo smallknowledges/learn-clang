@@ -1,4 +1,2 @@
-# learn-clang
-laren c
-``ccccccc``
-
+富士通芯片调试通信测试。错误：最后一个数据发出去有问题
+原因 ：TDRE 为0 之后TIE为1
